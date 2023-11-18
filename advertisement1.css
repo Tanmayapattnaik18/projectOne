@@ -1,0 +1,42 @@
+.i1{
+    width:70%;
+    height: 250px;
+}
+.i2{
+    width:30%;
+    height:250px;
+}
+.i{
+    width:80%;
+    height: 150px;
+    margin-left:11%;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.a{
+    display: flex;
+    height: 100%;
+}
+body{
+    overflow: hidden;
+    margin-top: -10px;
+    height: 250px;
+    margin: 0;
+    padding: 0;
+}
+.b{
+    text-align: center;
+    color: rgb(102, 102, 127);
+}
+.c{
+    height: 100%;
+    margin-top: 20px;
+    width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: rgb(246,246,246);
+}
+.h{
+    color:#212121;
+    margin-left:11%;
+}

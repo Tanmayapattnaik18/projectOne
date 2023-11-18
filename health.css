@@ -1,0 +1,111 @@
+.a{
+    margin: 0;
+padding: 0;
+font-family: Arial, sans-serif;
+padding: 20px;
+display: flex;
+cursor: pointer;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border-radius: 5px; 
+}
+option{
+    display: none;
+}
+select:hover{
+    color: #ee6e61;
+}
+option:hover{
+    color: black;
+}
+option:checked{
+    color: black;
+}
+
+select.HealthResourcescenter:hover{
+    color: #ee6e61;
+}
+select.HealthResourcescenter{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+select.VitamineandNutrition{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+select.Diabetes{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+select.HealthDevices{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+select.PersonalCare{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+select.HealthConditions{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+select.AyurvedaProducts{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+select.Homeopathy{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+}
+select.Featured{
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+}
+select.CovidEssentials {
+    max-height: 150px;
+    overflow-y: auto;
+    outline: none;
+    border: none;
+}
+.part{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+.part div{
+    width: 45%;
+}
+VitamineandNutrition{
+    display: flex;
+}

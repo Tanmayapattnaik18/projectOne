@@ -1,0 +1,60 @@
+.a{
+    background-color: #f6f6f6;
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+}
+body::-webkit-scrollbar {
+    display: none;}
+.btn{
+    background-color: #ff6f61;
+    color: white;
+    width:5%;
+    height: 20px;
+    font-size: 12px;
+    border-radius:3px ;
+    margin-top: 20px;
+    margin-left: 1100px ;
+}
+.brands{
+  display: flex;
+  width: 100%;
+  margin-left: 40px;
+  flex: 0 0 14.28%;
+}
+.b{
+    flex: 0 0 14.28%;
+    box-sizing: border-box;
+    height: 150px;
+}
+.prev{
+    cursor: pointer;
+    margin-right: 20px;
+}
+.next{
+    cursor: pointer;
+    margin-right: 10px;
+}
+h3{
+    margin-left:50px ;
+}
+.b img{
+    height:90%;
+}
+.d{
+    display: flex;
+}
+.d strike{
+    margin-top:15px;
+    margin-left: 5px;
+}
+.c{
+    font-size: 14px;
+    height: 5px;
+    line-height: 1px;
+}
+.p{
+    font-weight: 3px;
+    color: #7f8274;
+    margin-top: 40px;
+}
