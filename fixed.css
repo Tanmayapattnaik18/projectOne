@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: small;
+    height: 1px;
+    overflow: hidden;
+    position: fixed;
+    border: 1px solid red;
+    padding-left:500px;
+    padding-top: -100px;
+}

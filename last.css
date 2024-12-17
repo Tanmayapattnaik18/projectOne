@@ -1,0 +1,37 @@
+.c{
+    display: flex;
+    justify-content:space-between;
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+    background-color:#fffcf8 ;
+    box-sizing: border-box;
+}
+.b{
+    margin-top:50px;
+}
+.c img{
+    height:30px;
+    width:30px;
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+}
+.d img{
+    height:30px;
+    width:30px;
+}
+.e img{
+    display: block;
+    height:80px;
+    width:150px;
+}
+.sign{
+    width:100px;
+    height:40px;
+    background-color: #ff6f61;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
